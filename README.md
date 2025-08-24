@@ -15,7 +15,7 @@
 📩 Contact me at [shihlei121786@gmail.com](mailto:shihlei121786@gmail.com)<br>
 📚 Currently learning TypeScript<br>
 👩🏻‍🎓 Master's in Software Engineering from UC Irvine<br>
-☕️ Coffee lover
+☕️ Coffee lover and practicing latte art
 
 ###
 
