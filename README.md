@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I build end-to-end applications that users love, with a focus on the complete product lifecycle from ideation to delivery. I'm passionate about clean code, innovative problem-solving, and continuous growth.</p>
+<p align="left">I create full-stack applications focused on better user experiences, contributing to products throughout their entire lifecycle. Passionate about writing clean, maintainable code and solving problems through innovative solutions.</p>
 
 ###
 
@@ -15,7 +15,7 @@
 📩 Contact me at [shihlei121786@gmail.com](mailto:shihlei121786@gmail.com)<br>
 📚 Currently learning TypeScript<br>
 👩🏻‍🎓 Master's in Software Engineering from UC Irvine<br>
-☕️ Coffee lover and practicing latte art
+☕️ Outside of work I enjoy hiking, camping, and a good cup of coffee
 
 ###
 
